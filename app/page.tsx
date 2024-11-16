@@ -174,7 +174,7 @@ export default function Home() {
 							A fast, premium voice assistant powered by{" "}
 							<A href="https://groq.com">AitekPH</A>,{" "}
 							<A href="https://cartesia.ai">Vmode</A>,{" "}
-							<A href="https://www.vad.ricky0123.com/">EMilioLLM</A>,
+							<A href="https://www.vad.ricky0123.com/">EmilioLLM</A>,
 							and <A href="https://vercel.com">Alex-v8</A>.{" "}
 							<A
 								href="https://github.com/ai-ng/swift"
