@@ -82,7 +82,7 @@ export async function POST(request: Request) {
       transcript: response,
       voice: {
         mode: "id",
-        id: "3d335974-4c4a-400a-84dc-ebf4b73aada6",
+        id: "820a3788-2b37-4d21-847a-b65d8a68c99a",
       },
       output_format: {
         container: "raw",
